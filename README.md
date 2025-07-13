@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multi-Agentic Conversational AI System
 
 1. Clone repo and install dependencies:
@@ -20,3 +21,6 @@ uvicorn app.main:app --reload
 - PUT `/crm/update_user`: Update user.
 - GET `/crm/conversations/{user_id}`: Get full chat history.
 - POST `/reset`: reset.
+=======
+# Multi-Agentic-Conversational-System
+>>>>>>> bfdbdd0a7d5187215ea9c549583f8ed18a5373c8
